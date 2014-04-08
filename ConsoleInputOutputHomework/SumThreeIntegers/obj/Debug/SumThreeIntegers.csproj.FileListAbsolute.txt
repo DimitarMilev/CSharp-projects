@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumThreeIntegers\bin\Debug\SumThreeIntegers.exe
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumThreeIntegers\bin\Debug\SumThreeIntegers.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumThreeIntegers\obj\Debug\SumThreeIntegers.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumThreeIntegers\obj\Debug\SumThreeIntegers.exe
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumThreeIntegers\obj\Debug\SumThreeIntegers.pdb

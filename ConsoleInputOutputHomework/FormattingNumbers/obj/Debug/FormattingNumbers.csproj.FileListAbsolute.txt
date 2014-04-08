@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\FormattingNumbers\obj\Debug\FormattingNumbers.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+c:\users\pc\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\BankAccountData\obj\Debug\BankAccountData.pdb

@@ -1,0 +1,24 @@
+							                              List of IDEs
+   
+   1. Eclipse - Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system
+ for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins,
+ Eclipse may also be used to develop applications in other programming languages: Ada, C, C++, COBOL, Fortran, Haskell,JavaScript,
+ Lasso, Perl, PHP, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang.
+
+   2.NetBeans - NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, 
+in particular PHP, C/C++, and HTML5.It is also an application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+   3.Komodo IDE - Komodo IDE is a paid IDE from the ActiveState,a famous Mozilla Project. Komodo supports many languages which include
+Perl, PHP, Python, C, C++,  Javascript, CSS, HTML, XML,and some more…With improved toolbox and quite fast processing speed this can be
+ a good IDE to work on.
+
+   4.Monodevelop - MonoDevelop is an IDE primarily designed for C# and other .NET languages. MonoDevelop enables developers to quickly
+write desktop and ASP.NET Web applications .With its features like integrated debugger, code completion for C,C# & being easily customizable
+ this IDE is quite easy to work on.
+
+   5.Aptana - Aptana Studio supports JAVA,HTML,CSS etc…It has the features like code completion ,outlining, Javascript Debugging, error and
+warning notification and integrated documentation .Aptana Studio is based on Eclipse and is available as standalone on Windows ,Mac & linux,
+ or as a plug-in for Eclipse
+
+

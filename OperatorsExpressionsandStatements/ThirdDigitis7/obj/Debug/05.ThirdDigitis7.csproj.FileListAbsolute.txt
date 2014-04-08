@@ -1,0 +1,2 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\ThirdDigitis7\obj\Debug\ThirdDigitis7.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\ThirdDigitis7\obj\Debug\ThirdDigitis7.pdb

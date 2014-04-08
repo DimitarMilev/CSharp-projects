@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\Trapezoids\obj\Debug\Trapezoids.pdb

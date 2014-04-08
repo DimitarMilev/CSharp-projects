@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\AddorEvenProduct\bin\Debug\AddorEvenProduct.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\AddorEvenProduct\bin\Debug\AddorEvenProduct.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\AddorEvenProduct\obj\Debug\AddorEvenProduct.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\AddorEvenProduct\obj\Debug\AddorEvenProduct.pdb

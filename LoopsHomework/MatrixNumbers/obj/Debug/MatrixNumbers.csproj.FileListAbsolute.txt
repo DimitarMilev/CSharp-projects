@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\MatrixNumbers\bin\Debug\MatrixNumbers.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\MatrixNumbers\bin\Debug\MatrixNumbers.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\MatrixNumbers\obj\Debug\MatrixNumbers.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\MatrixNumbers\obj\Debug\MatrixNumbers.pdb

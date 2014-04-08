@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2012\Projects\LoopsHomework\MinMaxSumandAverageofNNumbers\bin\Debug\MinMaxSumandAverageofNNumbers.exe
+c:\users\administrator\documents\visual studio 2012\Projects\LoopsHomework\MinMaxSumandAverageofNNumbers\bin\Debug\MinMaxSumandAverageofNNumbers.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\LoopsHomework\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\LoopsHomework\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.exe
+c:\users\administrator\documents\visual studio 2012\Projects\LoopsHomework\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\MinMaxSumandAverageofNNumbers\obj\Debug\MinMaxSumandAverageofNNumbers.pdb

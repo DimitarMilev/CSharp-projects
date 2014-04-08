@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\HexToDecimal\bin\Debug\HexToDecimal.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\HexToDecimal\bin\Debug\HexToDecimal.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\HexToDecimal\obj\Debug\HexToDecimal.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\HexToDecimal\obj\Debug\HexToDecimal.pdb

@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\CombinationFormula\bin\Debug\CombinationFormula.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\CombinationFormula\bin\Debug\CombinationFormula.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\CombinationFormula\obj\Debug\07.CombinationFormula.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\CombinationFormula\obj\Debug\CombinationFormula.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\CombinationFormula\obj\Debug\CombinationFormula.pdb

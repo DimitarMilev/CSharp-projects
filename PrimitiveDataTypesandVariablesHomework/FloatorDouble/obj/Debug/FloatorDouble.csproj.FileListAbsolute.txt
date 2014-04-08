@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\FloatorDouble\bin\Debug\FloatorDouble.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\FloatorDouble\bin\Debug\FloatorDouble.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\FloatorDouble\obj\Debug\FloatorDouble.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\FloatorDouble\obj\Debug\FloatorDouble.pdb

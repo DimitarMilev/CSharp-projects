@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\Rectangle\obj\Debug\Rectangle.pdb

@@ -1,0 +1,4 @@
+C:\Users\PC\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumofnNumbers\obj\Debug\SumofnNumbers.exe
+C:\Users\PC\documents\visual studio 2013\Projects\ConsoleInputOutputHomework\SumofnNumbers\obj\Debug\SumofnNumbers.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\SumofnNumbers\bin\Debug\SumofnNumbers.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\SumofnNumbers\bin\Debug\SumofnNumbers.pdb

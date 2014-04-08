@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2013\Projects\OperatorsExpressionsandStatements\AddorEven\bin\Debug\AddorEven.exe
+c:\users\pc\documents\visual studio 2013\Projects\OperatorsExpressionsandStatements\AddorEven\bin\Debug\AddorEven.pdb
+c:\users\pc\documents\visual studio 2013\Projects\OperatorsExpressionsandStatements\AddorEven\obj\Debug\AddorEven.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\OperatorsExpressionsandStatements\AddorEven\obj\Debug\AddorEven.exe
+c:\users\pc\documents\visual studio 2013\Projects\OperatorsExpressionsandStatements\AddorEven\obj\Debug\AddorEven.pdb
