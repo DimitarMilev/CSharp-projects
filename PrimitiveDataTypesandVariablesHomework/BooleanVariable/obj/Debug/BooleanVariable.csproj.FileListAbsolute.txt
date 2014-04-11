@@ -1,5 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\BooleanVariable\bin\Debug\BooleanVariable.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\BooleanVariable\bin\Debug\BooleanVariable.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\BooleanVariable\obj\Debug\BooleanVariable.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\BooleanVariable\obj\Debug\BooleanVariable.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\BooleanVariable\obj\Debug\BooleanVariable.csprojResolveAssemblyReference.cache

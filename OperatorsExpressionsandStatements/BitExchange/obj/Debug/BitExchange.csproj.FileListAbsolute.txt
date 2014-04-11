@@ -1,4 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\BitExchange\bin\Debug\BitExchange.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\BitExchange\bin\Debug\BitExchange.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\BitExchange\obj\Debug\BitExchange.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\BitExchange\obj\Debug\BitExchange.pdb

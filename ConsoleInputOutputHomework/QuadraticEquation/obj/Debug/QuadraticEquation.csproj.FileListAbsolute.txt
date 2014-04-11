@@ -1,5 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\QuadraticEquation\bin\Debug\QuadraticEquation.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\QuadraticEquation\obj\Debug\QuadraticEquation.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

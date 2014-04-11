@@ -1,5 +1,0 @@
-C:\Users\PC\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.exe
-C:\Users\PC\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
-C:\Users\PC\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.csprojResolveAssemblyReference.cache
-C:\Users\PC\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.exe
-C:\Users\PC\documents\visual studio 2013\Projects\ConditionalStatements\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

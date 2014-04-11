@@ -1,4 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\NullValues\bin\Debug\NullValues.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\NullValues\bin\Debug\NullValues.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\NullValues\obj\Debug\NullValues.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\NullValues\obj\Debug\NullValues.pdb

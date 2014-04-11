@@ -1,4 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\Calculate\bin\Debug\Calculate.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\Calculate\bin\Debug\Calculate.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\Calculate\obj\Debug\Calculate.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\Calculate\obj\Debug\Calculate.pdb

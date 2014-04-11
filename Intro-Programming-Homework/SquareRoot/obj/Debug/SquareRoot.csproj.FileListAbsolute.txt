@@ -1,2 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\8.SquareRoot\obj\Debug\8.SquareRoot.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\8.SquareRoot\obj\Debug\8.SquareRoot.pdb

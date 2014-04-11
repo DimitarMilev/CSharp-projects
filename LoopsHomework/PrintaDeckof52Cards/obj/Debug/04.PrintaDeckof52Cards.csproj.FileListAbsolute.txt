@@ -1,5 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintaDeckof52Cards\obj\Debug\PrintaDeckof52Cards.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintaDeckof52Cards\obj\Debug\PrintaDeckof52Cards.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintaDeckof52Cards\bin\Debug\PrintaDeckof52Cards.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintaDeckof52Cards\bin\Debug\PrintaDeckof52Cards.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\PrintaDeckof52Cards\obj\Debug\04.PrintaDeckof52Cards.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\FibonacciNumbers\obj\Debug\FibonacciNumbers.csprojResolveAssemblyReference.cache
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

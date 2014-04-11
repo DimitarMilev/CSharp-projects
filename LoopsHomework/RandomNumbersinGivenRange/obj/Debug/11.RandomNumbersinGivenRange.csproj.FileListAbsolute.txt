@@ -1,4 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\RandomNumbersinGivenRange\bin\Debug\RandomNumbersinGivenRange.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\RandomNumbersinGivenRange\bin\Debug\RandomNumbersinGivenRange.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\RandomNumbersinGivenRange\obj\Debug\RandomNumbersinGivenRange.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\RandomNumbersinGivenRange\obj\Debug\RandomNumbersinGivenRange.pdb

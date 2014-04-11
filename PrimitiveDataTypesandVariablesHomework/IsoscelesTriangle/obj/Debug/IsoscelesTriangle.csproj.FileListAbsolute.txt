@@ -1,4 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

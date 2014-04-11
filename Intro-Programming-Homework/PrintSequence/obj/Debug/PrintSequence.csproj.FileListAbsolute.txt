@@ -1,4 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb

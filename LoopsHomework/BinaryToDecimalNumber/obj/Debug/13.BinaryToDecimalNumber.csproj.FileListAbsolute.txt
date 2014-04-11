@@ -1,4 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.pdb

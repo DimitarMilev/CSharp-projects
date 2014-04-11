@@ -1,2 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\ExtractBit3\obj\Debug\ExtractBit3.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\OperatorsExpressionsandStatements\ExtractBit3\obj\Debug\ExtractBit3.pdb

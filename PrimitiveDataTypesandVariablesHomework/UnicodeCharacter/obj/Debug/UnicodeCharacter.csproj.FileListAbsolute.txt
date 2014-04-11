@@ -1,5 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.csprojResolveAssemblyReference.cache
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesandVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

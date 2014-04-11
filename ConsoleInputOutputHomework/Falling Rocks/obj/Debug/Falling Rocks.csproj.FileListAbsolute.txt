@@ -1,5 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Falling Rocks\bin\Debug\Falling Rocks.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Falling Rocks\bin\Debug\Falling Rocks.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Falling Rocks\obj\Debug\Falling Rocks.csprojResolveAssemblyReference.cache
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Falling Rocks\obj\Debug\Falling Rocks.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Falling Rocks\obj\Debug\Falling Rocks.pdb

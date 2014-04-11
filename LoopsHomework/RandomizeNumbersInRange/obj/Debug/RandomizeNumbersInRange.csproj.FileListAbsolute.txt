@@ -1,4 +1,0 @@
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\RandomizeNumbersInRange\bin\Debug\RandomizeNumbersInRange.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\RandomizeNumbersInRange\bin\Debug\RandomizeNumbersInRange.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\RandomizeNumbersInRange\obj\Debug\RandomizeNumbersInRange.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\RandomizeNumbersInRange\obj\Debug\RandomizeNumbersInRange.pdb

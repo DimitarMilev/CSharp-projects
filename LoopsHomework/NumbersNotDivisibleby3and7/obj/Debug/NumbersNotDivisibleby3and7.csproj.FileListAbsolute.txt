@@ -1,6 +1,0 @@
-c:\users\administrator\documents\visual studio 2012\Projects\LoopsHomework\NumbersNotDivisibleby3and7\bin\Debug\NumbersNotDivisibleby3and7.exe
-c:\users\administrator\documents\visual studio 2012\Projects\LoopsHomework\NumbersNotDivisibleby3and7\bin\Debug\NumbersNotDivisibleby3and7.pdb
-c:\users\administrator\documents\visual studio 2012\Projects\LoopsHomework\NumbersNotDivisibleby3and7\obj\Debug\NumbersNotDivisibleby3and7.exe
-c:\users\administrator\documents\visual studio 2012\Projects\LoopsHomework\NumbersNotDivisibleby3and7\obj\Debug\NumbersNotDivisibleby3and7.pdb
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\NumbersNotDivisibleby3and7\obj\Debug\NumbersNotDivisibleby3and7.exe
-C:\Users\PC\Documents\Visual Studio 2013\Projects\LoopsHomework\NumbersNotDivisibleby3and7\obj\Debug\NumbersNotDivisibleby3and7.pdb
